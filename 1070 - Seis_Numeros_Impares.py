@@ -6,3 +6,4 @@ if X % 2 == 0:
 for i in range(6):
     print(X)
     X += 2
+
